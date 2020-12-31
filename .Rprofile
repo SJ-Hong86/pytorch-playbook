@@ -1,0 +1,1 @@
+Sys.setenv(RETICULATE_PYTHON = "C:\\Users\\user\\anaconda3\\envs\\pytorch-playbook\\python.exe")
