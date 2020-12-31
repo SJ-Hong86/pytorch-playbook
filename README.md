@@ -1,2 +1,2 @@
 # pytorch-playbook
-examples based on Issactoast post[pytorch]
+This project contains the examples based on Issactoast post[pytorch]
